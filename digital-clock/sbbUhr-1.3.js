@@ -1,7 +1,7 @@
 /*
  * Digital SBB Uhr V 1.3 (marke@sbb.ch)
  * All rights reserves by SBB AG, Switzerland.
- * Apache-2.0 License
+ * GNU/GPLv3 License
  */
 function sbbUhr(container, background = false, fps = false) {
 	//Check if selected container is valid
